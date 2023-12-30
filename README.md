@@ -1,4 +1,4 @@
 # Currency-Converter
-currency converter app designed in javascript, HTML, and CSS.
+Currency Converter app designed in JavaScript, HTML, and CSS.
 
 HOSTED LINK-https://currency-c.netlify.app/
