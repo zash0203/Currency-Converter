@@ -80,3 +80,9 @@
     font-size: 1.15rem;
     cursor: pointer;
   }
+
+
+.footer{
+    position: absolute;
+    bottom: 3px;
+  }
